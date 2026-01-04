@@ -1,4 +1,4 @@
-![Banner](./assets/bannar.jpg)
+![Banner](./assets/profile banner.jpg)
 ## Hi there 👋
 
 <!--
