@@ -1,5 +1,5 @@
 ![Banner](./Assets/profile.jpg)
-## Hi there ![hllow](./Assets/lovethis.gif)
+## Hi there ![hllow](./Assets/lovefriend.gif)
 
 <!--
 **ANU-X/ANU-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
