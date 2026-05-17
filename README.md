@@ -14,13 +14,23 @@ I'm ANU, a Frontend Web Application Developer with working knowledge of Backend 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdanumia1999@gmail.com)
 
 
-## ⚒️ I'm Working on
+## 💻 What I'm Working On
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Web%20Development-3C873A?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Graphics%20Design-FF5722?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Entry-4CAF50?style=for-the-badge&logo=googlesheets&logoColor=white" />
-</p>
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" style="border: 1px solid #ddd; padding: 15px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/Graphics%20Design-FF5722?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+    </td>
+    <td align="center" style="border: 1px solid #ddd; padding: 15px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/Data%20Entry-4CAF50?style=for-the-badge&logo=googlesheets&logoColor=white" />
+    </td>
+    <td align="center" style="border: 1px solid #ddd; padding: 15px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/Web%20Development-3C873A?style=for-the-badge&logo=javascript&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 
 ## 🛠️ My Tech Stack
