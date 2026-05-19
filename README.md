@@ -13,28 +13,32 @@ I'm ANU, a Frontend Web Application Developer with working knowledge of Backend 
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/mdanu99.bsky.social)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdanumia1999@gmail.com)
 
+##
 
-## ⚡ What I'm Working On
 
-<table border="1" cellspacing="0" cellpadding="20">
-  <tr>
-    <td align="center" width="200" valign="middle">
-      <img src="Assets/design.png" alt="Graphic Design" width="70" height="70" />
-      <br><br>
-      <font size="3" color="#ffffff"><b>Graphics Design</b></font>
-    </td>
-      <td align="center" width="200" valign="middle">
-      <img src="Assets/web.png" alt="WebDevelopment" width="70" height="70" />
-      <br><br>
-      <font size="3" color="#ffffff"><b>Web Development</b></font>
-    </td>
-    <td align="center" width="200" valign="middle">
-      <img src="Assets/data.png" alt="UI/UX Design" width="70" height="70" />
-      <br><br>
-      <font size="3" color="#ffffff"><b>Data Analist</b></font>
-    </td>
-  </tr>
-</table>
+<div align = "center">
+  <h2 style = "border-bottom: none; margin-bottom: 30px; display: inline-block"> I'm Working On. </h2>
+
+  <table border = "1" cellspacing = "0" style = "border-collapse: collapse; text-align: center;" >
+    <tr>
+      <td width = "200" style = "padding: 35px 20px;>
+        <img src = "Assets/design.png" alt= "img" width="70" height="70" />
+        <br/>
+        <font size = "3" color = "#ffffff"> <b> Graphics Design </b> </font>
+      </td>
+      <td width = "200" style = "padding: 35px 20px">
+        <img src = "Assets/web.png" alt= "img" width="70" height="70" />
+        <br/>
+        <font size = "3" color = "#ffffff"> <b> Web Development </b> </font>        
+      </td>
+      <td width = "200" style = "padding: 35px 20px">
+        <img src = "Assets/data.png" alt= "img" width="70" height="70" />
+        <br/>
+        <font size = "3" color = "#ffffff"> <b> Data Analyst </b> </font>        
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ## 🛠️ My Tech Stack
