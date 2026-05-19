@@ -14,20 +14,24 @@ I'm ANU, a Frontend Web Application Developer with working knowledge of Backend 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdanumia1999@gmail.com)
 
 
-## 💻 What I'm Working On
+## ⚡ What I'm Working On
 
-<br>
-
-<table align="center">
+<table border="1" cellspacing="0" cellpadding="20">
   <tr>
-    <td align="center" style="border: 1px solid #ddd; padding: 15px; border-radius: 10px;">
-      <img src="https://img.shields.io/badge/Graphics%20Design-FF5722?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+    <td align="center" width="200" valign="middle">
+      <img src="Assets/design.png" alt="Graphic Design" width="70" height="70" />
+      <br><br>
+      <font size="3" color="#ffffff"><b>Graphics Design</b></font>
     </td>
-    <td align="center" style="border: 1px solid #ddd; padding: 15px; border-radius: 10px;">
-      <img src="https://img.shields.io/badge/Data%20Entry-4CAF50?style=for-the-badge&logo=googlesheets&logoColor=white" />
+      <td align="center" width="200" valign="middle">
+      <img src="Assets/web.png" alt="WebDevelopment" width="70" height="70" />
+      <br><br>
+      <font size="3" color="#ffffff"><b>Web Development</b></font>
     </td>
-    <td align="center" style="border: 1px solid #ddd; padding: 15px; border-radius: 10px;">
-      <img src="https://img.shields.io/badge/Web%20Development-3C873A?style=for-the-badge&logo=javascript&logoColor=white" />
+    <td align="center" width="200" valign="middle">
+      <img src="Assets/data.png" alt="UI/UX Design" width="70" height="70" />
+      <br><br>
+      <font size="3" color="#ffffff"><b>Data Analist</b></font>
     </td>
   </tr>
 </table>
